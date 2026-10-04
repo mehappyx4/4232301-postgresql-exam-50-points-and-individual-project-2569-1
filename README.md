@@ -8,24 +8,27 @@
 
 - สัปดาห์ที่ 14
 - [รายละเอียดงานบน Moodle](https://wbsc.dusit.ac.th/mod/assign/view.php?id=210691)
-- งานนี้เป็นการเขียนคำสั่ง SQL และจัดทำรายงานผลการสอบ
+- รายงานผลการสอบ: U1_6811011662008_ปภังกรทองเจริญ_week14 (2).pdf
 
 ### 2. ส่งงานเดี่ยว Project รายวิชา
 
 - สัปดาห์ที่ 15
 - [รายละเอียดงานบน Moodle](https://wbsc.dusit.ac.th/mod/assign/view.php?id=211030)
-- งานนี้เป็นโครงงานเดี่ยวที่ประกอบด้วยคำสั่ง SQL และรายงานผลการทำงาน
+- รายงานโครงการ: [paphangkorn_individual_report.pdf](./paphangkorn_individual_report.pdf)
+- ไฟล์คำสั่ง SQL: [university (1).sql](./university%20%281%29.sql)
 
 ## ไฟล์ที่ส่งขึ้น GitHub
 
 | ไฟล์ | รายละเอียด |
 |---|---|
-| [exam_report.pdf](./exam_report.pdf) | รายงานฉบับ PDF สำหรับส่งอาจารย์ (ไฟล์หลัก) |
+| U1_6811011662008_ปภังกรทองเจริญ_week14 (2).pdf | รายงาน PDF งานสอบ PostgreSQL รายบุคคล 50 คะแนน |
+| [paphangkorn_individual_report.pdf](./paphangkorn_individual_report.pdf) | รายงาน PDF งานเดี่ยว Project รายวิชา |
+| [university (1).sql](./university%20%281%29.sql) | คำสั่ง SQL ของงาน Project |
 | [exam_report.html](./exam_report.html) | ไฟล์ต้นฉบับ HTML ของรายงาน |
 | [exam_report.md](./exam_report.md) | รายงานฉบับ Markdown |
-| [student_registration.sql](./student_registration.sql) | ไฟล์คำสั่ง SQL สำหรับงานฐานข้อมูล/ระบบลงทะเบียนนักศึกษา |
+| [student_registration.sql](./student_registration.sql) | ไฟล์ SQL ประกอบงานฐานข้อมูล |
 
-หมายเหตุ: แนะนำให้เปิดดู **exam_report.pdf** เป็นรายงานฉบับสมบูรณ์ ส่วนไฟล์ HTML และ Markdown เก็บไว้เป็นไฟล์ต้นฉบับ/สำรอง
+**ไฟล์ PDF คือไฟล์รายงานหลักสำหรับให้อาจารย์ตรวจ ส่วน HTML/Markdown และ SQL เป็นไฟล์ประกอบ**
 
 ## ผู้จัดทำ
 
