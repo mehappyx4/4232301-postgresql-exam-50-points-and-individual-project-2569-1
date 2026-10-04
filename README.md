@@ -8,7 +8,7 @@
 
 - สัปดาห์ที่ 14
 - [รายละเอียดงานบน Moodle](https://wbsc.dusit.ac.th/mod/assign/view.php?id=210691)
-- รายงานผลการสอบ: U1_6811011662008_ปภังกรทองเจริญ_week14 (2).pdf
+- รายงานผลการสอบ: [U1_week14_ปภังกรทองเจริญ_week14.pdf](./U1_week14_%E0%B8%9B%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D_week14.pdf)
 
 ### 2. ส่งงานเดี่ยว Project รายวิชา
 
@@ -21,7 +21,7 @@
 
 | ไฟล์ | รายละเอียด |
 |---|---|
-| U1_6811011662008_ปภังกรทองเจริญ_week14 (2).pdf | รายงาน PDF งานสอบ PostgreSQL รายบุคคล 50 คะแนน |
+| [U1_week14_ปภังกรทองเจริญ_week14.pdf](./U1_week14_%E0%B8%9B%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D_week14.pdf) | รายงาน PDF งานสอบ PostgreSQL รายบุคคล 50 คะแนน |
 | [paphangkorn_individual_report.pdf](./paphangkorn_individual_report.pdf) | รายงาน PDF งานเดี่ยว Project รายวิชา |
 | [university (1).sql](./university%20%281%29.sql) | คำสั่ง SQL ของงาน Project |
 | [exam_report.html](./exam_report.html) | ไฟล์ต้นฉบับ HTML ของรายงาน |
