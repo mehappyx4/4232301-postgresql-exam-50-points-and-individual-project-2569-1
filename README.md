@@ -20,9 +20,12 @@
 
 | ไฟล์ | รายละเอียด |
 |---|---|
-| [exam_report.html](./exam_report.html) | รายงานผลการทำงานในรูปแบบ HTML |
-| [exam_report.md](./exam_report.md) | รายงานผลการทำงานในรูปแบบ Markdown |
+| [exam_report.pdf](./exam_report.pdf) | รายงานฉบับ PDF สำหรับส่งอาจารย์ (ไฟล์หลัก) |
+| [exam_report.html](./exam_report.html) | ไฟล์ต้นฉบับ HTML ของรายงาน |
+| [exam_report.md](./exam_report.md) | รายงานฉบับ Markdown |
 | [student_registration.sql](./student_registration.sql) | ไฟล์คำสั่ง SQL สำหรับงานฐานข้อมูล/ระบบลงทะเบียนนักศึกษา |
+
+หมายเหตุ: แนะนำให้เปิดดู **exam_report.pdf** เป็นรายงานฉบับสมบูรณ์ ส่วนไฟล์ HTML และ Markdown เก็บไว้เป็นไฟล์ต้นฉบับ/สำรอง
 
 ## ผู้จัดทำ
 
